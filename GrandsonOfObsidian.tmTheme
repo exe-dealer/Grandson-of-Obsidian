@@ -4,9 +4,9 @@
 <dict>
 	<key>comment</key>
 	<string>
-		Inspired on Son of Obsidian: http://studiostyl.es/schemes/son-of-obsidian 
+		Inspired on Son of Obsidian: http://studiostyl.es/schemes/son-of-obsidian
 		which is inspired in Obsidian http://www.eclipsecolorthemes.org/?view=theme&amp;id=21
-		
+
 		I created this from another theme "Tomorrow Night" http://chriskempson.com
 	</string>
 	<key>name</key>
@@ -30,6 +30,39 @@
 				<string>#4F6164</string>
 			</dict>
 		</dict>
+		<dict>
+            <key>name</key>
+            <string>diff.deleted</string>
+            <key>scope</key>
+            <string>markup.deleted</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DA4236</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff.changed</string>
+            <key>scope</key>
+            <string>markup.changed</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#72AACA</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff.inserted</string>
+            <key>scope</key>
+            <string>markup.inserted</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#93c763</string>
+            </dict>
+        </dict>
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
@@ -128,7 +161,7 @@
 				<string>#678CB1</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
@@ -142,7 +175,7 @@
 				<string>#93C763</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
