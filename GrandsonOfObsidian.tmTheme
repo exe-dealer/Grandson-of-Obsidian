@@ -219,6 +219,17 @@
 				<string>#ffffff</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>sql quoted ident</string>
+			<key>scope</key>
+			<string>string.quoted.double.sql</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#73E5FF</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>F96223EB-1AAB-4617-92F3-FA4D4F13DB09</string>
