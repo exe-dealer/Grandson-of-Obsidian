@@ -230,6 +230,17 @@
 				<string>#73E5FF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>rust macro</string>
+			<key>scope</key>
+			<string>meta.preprocessor.rust</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3E999F</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>F96223EB-1AAB-4617-92F3-FA4D4F13DB09</string>
