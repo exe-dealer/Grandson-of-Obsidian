@@ -241,6 +241,17 @@
 				<string>#3E999F</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>rust attribute</string>
+			<key>scope</key>
+			<string>comment.block.attribute.rust</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BB476A</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>F96223EB-1AAB-4617-92F3-FA4D4F13DB09</string>
