@@ -252,6 +252,17 @@
 				<string>#BB476A</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>documentation</string>
+			<key>scope</key>
+			<string>comment.line.documentation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#97A4AA</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>F96223EB-1AAB-4617-92F3-FA4D4F13DB09</string>
