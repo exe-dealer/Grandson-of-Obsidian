@@ -234,7 +234,7 @@
 			<key>name</key>
 			<string>rust macro</string>
 			<key>scope</key>
-			<string>meta.preprocessor.rust</string>
+			<string>support.macro.rust</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
